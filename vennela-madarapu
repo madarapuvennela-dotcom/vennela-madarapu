@@ -1,0 +1,109 @@
+print("Hello world1!")
+print("welcome to python.")
+print("your name")
+print("I am learnig python.")
+print("pythan programming.")
+print("good mornig.")
+print("welcome students.")
+print("python is easy.")
+print("my First program")
+print("Hello from python!.")
+print("2 + 5")
+print("10 - 3")
+print("Hello world!")
+print("python")
+print("Hello")
+print("Hello")
+print("10 + 20")
+print(10+20)
+name ="your Name"
+age = 20
+marks = 85
+price = 99.9
+city ="chennai"
+print(city)
+score = 5
+print(score)
+x = 10
+print(x)
+message = "welcome"
+print(message)
+a = 10
+b = 20
+print(a+b)
+quantity = 5 
+price = 10
+print(quantity* price)
+print(type(25)) #<class 'str>'
+print(type("25")) #<class'str>
+age = 21
+print(age,type(age))
+heigh = 5.8
+print('height',type('height'))
+name ="arun"
+print(name,type(name))
+age = 20
+price = 99.5 
+name = "ravi"
+print(type(age),type(price),type(name))
+marks = 90
+print(type(marks)) # int
+temperature = 36.5 
+print(type(temperature)) # float
+message = "welcome"
+print(type(message)) # str
+word ="python"
+print(word[0])
+print(name[-1])
+print(len(name))
+word = "hi"
+print(word* 3)
+first ="Good"
+second ="moring"
+print(first+second)
+word = "programming"
+print(word[0])
+print(word[3])
+print(word[-1])
+city ="chennai"
+print(city[0])
+print(city[-1])
+print(len(city))
+a="py"
+b="thon"
+c=a+b
+print(c)
+print(len(c))
+symbol="*"
+print(symbol*5)
+name = "ravi"
+city ="madurai"
+print(name,city)
+print(len(name))
+print(len(city))
+word="python"
+print(word * 2)
+print(word[0])
+print(word[-1])
+print(len(word))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
